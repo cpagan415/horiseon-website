@@ -3,7 +3,7 @@
 ![](Develop/assets/images/01-html-css-git-homework-demo.png)
 
 
-Link to page: https://github.com/cpagan415/horiseon.github.io.git
+Link to page:
 
 Changes that were made: 
 
