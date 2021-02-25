@@ -8,4 +8,5 @@ Changes that were made:
 
 -Added alt to hero for accessibility. 
 
--Changed name of title tag. 
+-Changed name of title element. 
+
