@@ -1,7 +1,9 @@
 # Code Refactor Starter Code
 
+![](Develop/assets/images/01-html-css-git-homework-demo.png)
 
 
+Link to page: https://github.com/cpagan415/horiseon.github.io.git
 
 Changes that were made: 
 
