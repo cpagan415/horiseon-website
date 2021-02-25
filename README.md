@@ -1,5 +1,8 @@
 # Code Refactor Starter Code
 
+
+
+
 Changes that were made: 
 
 -Header, navigation, and hero had semantic HTML elements added. 
