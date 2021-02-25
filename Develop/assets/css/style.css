@@ -114,6 +114,7 @@ p {
     text-align: center;
 }
 
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -144,21 +145,13 @@ p {
 }
 
 /*condensed article img css*/
-article img {
+.content img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/*condensed h2 tag css*/
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
